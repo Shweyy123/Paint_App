@@ -1,4 +1,5 @@
 Drawing App with React
+
 This project is a simple drawing application built using React, leveraging functional components, React Hooks, HTML Canvas, and JavaScript ES6 features.
 
 Prerequisites
