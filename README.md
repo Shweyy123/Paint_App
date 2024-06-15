@@ -11,11 +11,15 @@ npx create-react-app drawing-app
 cd drawing-app
 
 Functional Components: Familiarity with React functional components is recommended.
+
 React Hooks: Understanding of React Hooks (useState, useEffect, etc.) is required.
+
 HTML Canvas: Basic knowledge of HTML Canvas element and drawing operations.
+
 JavaScript ES6: Comfortable with modern JavaScript ES6 syntax and concepts.
 
 Approach
+
 In this application, we implement three main functions to enable drawing functionality:
 
 startDrawing(): This function starts the drawing process when the mouse button is pressed down. It captures the initial coordinates (startX, startY) and toggles the isDrawing state to true.
@@ -34,7 +38,9 @@ State Management: React Hooks (useState) are used to manage state variables such
 Usage
 
 Clone the repository:
+
 git clone <repository_url>
+
 cd drawing-app
 
 Install dependencies:
